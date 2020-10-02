@@ -1,4 +1,4 @@
-# ***Hangman Game 
+# Hangman Game 
 ### Written for amusement and fun.
 
 
